@@ -1,0 +1,16 @@
+{
+  "title": "Getting started with bash",
+  "description": "Bash (Bourne Again SHell) is one of many shells. A Shell takes commands and covert those calls into system calls used by the Operating System API.",
+  "courses": [
+    {
+      "course_id": "basicbash",
+      "title": "Basic bash",
+      "description": "What is bash anyway?"
+    },
+    {
+      "course_id": "fileswithbash",
+      "title": "Managing files with bash",
+      "description": "How can we create, update and delete files with bash"
+    }
+  ]
+}

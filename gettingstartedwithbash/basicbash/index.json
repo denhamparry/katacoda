@@ -1,0 +1,46 @@
+{
+  "title": "Basic bash",
+  "description": "What is bash and how do we use it?",
+  "difficulty": "Beginner",
+  "time": "10 minutes",
+  "details": {
+    "steps": [
+      {
+        "title": "Check bash version",
+        "text": "step1.md"
+      },
+      {
+        "title": "Who are we?",
+        "text": "step2.md"
+      },
+      {
+        "title": "Where are we?",
+        "text": "step3.md"
+      },
+      {
+        "title": "Make a folder",
+        "text": "step4.md"
+      },
+      {
+        "title": "Move terminal info directory",
+        "text": "step5.md"
+      },
+      {
+        "title": "What just happened?",
+        "text": "step6.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "terminal"
+  },
+  "backend": {
+    "imageid": "ubuntu"
+  }
+}
