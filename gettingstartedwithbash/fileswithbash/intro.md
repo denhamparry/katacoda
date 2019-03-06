@@ -1,1 +1,1 @@
-This is the intro
+Lets look into how we can manage files using bash.
