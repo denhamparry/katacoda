@@ -6,27 +6,27 @@
   "details": {
     "steps": [
       {
-        "title": "Step 1",
+        "title": "Create a file",
         "text": "step1.md"
       },
       {
-        "title": "Step 2",
+        "title": "View the contents of a file",
         "text": "step2.md"
       },
       {
-        "title": "Step 3",
+        "title": "Write to a file",
         "text": "step3.md"
       },
       {
-        "title": "Step 4",
+        "title": "Write to a file again",
         "text": "step4.md"
       },
       {
-        "title": "Step 5",
+        "title": "Move a file",
         "text": "step5.md"
       },
       {
-        "title": "Step 6",
+        "title": "Delete a file",
         "text": "step6.md"
       }
     ],

@@ -1,1 +1,1 @@
-This is the end.
+We've learned how to create, manage and delete files using bash.
